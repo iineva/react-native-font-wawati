@@ -1,6 +1,6 @@
 {
   "name": "react-native-font-wawati",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "React Native font Wawati <娃娃体>, support iOS and Android both. (Chinese and English) Edit",
   "main": "index.js",
   "scripts": {
