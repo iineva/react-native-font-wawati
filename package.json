@@ -1,13 +1,20 @@
 {
   "name": "react-native-font-wawati",
-  "version": "1.0.0",
-  "description": "React Native font Wawati-SC-Regular.otf (娃娃体)",
+  "version": "1.0",
+  "description": "React Native font Wawati <娃娃体>, support iOS and Android both. (Chinese and English) Edit",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iineva/react-native-font-wawati.git"
+  },
+  "homepage": "https://github.com/iineva/react-native-font-wawati",
   "keywords": [
-    "react-native"
+    "react-native",
+    "font",
+    "wawati"
   ],
   "rnpm": {
     "assets": [
@@ -15,7 +22,7 @@
     ]
   },
   "author": "Steven",
-  "license": "ISC",
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "*"
   },
