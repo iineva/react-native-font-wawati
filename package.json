@@ -1,5 +1,5 @@
 {
-  "name": "react-native-wawati",
+  "name": "react-native-font-wawati",
   "version": "1.0.0",
   "description": "React Native font Wawati-SC-Regular.otf (娃娃体)",
   "main": "index.js",
@@ -10,11 +10,16 @@
     "react-native"
   ],
   "rnpm": {
-    "assets": ["./font"]
+    "assets": [
+      "./font"
+    ]
   },
   "author": "Steven",
   "license": "ISC",
   "peerDependencies": {
     "react-native": "*"
+  },
+  "dependencies": {
+    "lodash.wrap": "^4.1.1"
   }
 }
